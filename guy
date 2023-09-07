@@ -1,0 +1,20 @@
+# Project Name
+
+This project is a [description of what it does]. 
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies with `npm install`
+
+## Usage
+
+To start the project, run `npm start`.
+
+## Contributing
+
+Contributions are always welcome! Please submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
